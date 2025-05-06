@@ -16,24 +16,24 @@ const Header = () => {
             </a>
             <ul className="dropdown-menu">
               <li>
-                {/* <Link to="/cancellation" style={{ color: "black" }}>
+                 <a href="/cancellation" style={{ color: "black" }}>
                   Cancellation
                 </Link>
               </li>
               <li>
-                <Link to="/change-travel-date" style={{ color: "black" }}>
+                <a href="/change-travel-date" style={{ color: "black" }}>
                   Change Travel Date
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="/show-my-ticket" style={{ color: "black" }}>
+                <a href="/show-my-ticket" style={{ color: "black" }}>
                   Show My Ticket
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="/email" style={{ color: "black" }}>
+                <a href="/email" style={{ color: "black" }}>
                   Email
-                </Link> */}
+                </a>
               </li>
             </ul>
           </li>
